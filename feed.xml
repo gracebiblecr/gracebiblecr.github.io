@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xml:lang="">
+    <channel>
+    <atom:link href="https://gracebiblecr.github.io/" rel="self" type="application/rss+xml"/>
+    <title>GraceBibleCR Podcast</title>
+    <link>https://gracebiblecr.github.io</link>
+    <description>a podcast for my bible lessons</description>
+    <item>
+        <title>Episode 1: Test Audio</title>
+        <enclosure url="https://gracebiblecr.github.io/test-audio.mp3" type="audio/mp3"/>
+        <pubDate>Mon, 19 Sep 2022 01:24:34 +0000</pubDate>
+        <description>This is a test audio file.</description>
+    </item>
+    </channel>
+</rss>
