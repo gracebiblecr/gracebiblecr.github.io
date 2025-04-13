@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:lang="">
-<channel>
-    <title>Podcast Example</title>
-    <link href="https://gracebiblecr.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>my first podcast episode</description>
-    <item><link>article1/gracebiblecr.github.io/1</link><guid>
-</channel>
-</rss>
