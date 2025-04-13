@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xml:lang="">
     <channel>
-    <atom:link href="https://gracebiblecr.github.io/" rel="self" type="application/rss+xml"/>
-    <title>GraceBibleCR Podcast</title>
-    <link>https://gracebiblecr.github.io</link>
-    <description>a podcast for my bible lessons</description>
+        <atom:link href="https://gracebiblecr.github.io/" rel="self" type="application/rss+xml"/>
+        <title>GraceBibleCR Podcast</title>
+        <link>https://gracebiblecr.github.io</link>
+        <description>a podcast for my bible lessons</description>
     <item>
         <title>Episode 1: Test Audio</title>
         <enclosure url="https://gracebiblecr.github.io/test-audio.mp3" type="audio/mp3"/>
